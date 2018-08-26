@@ -39,11 +39,11 @@ while data_collection_flag == True:
     if(sample[72]!=0):
         print(sample[72])
         #768 start of trial
-        #780 - arrow up
-        #769 - left hand
+        #780 - Up movement - left hand
+        #769 - Left movement - left foot
+        #770- Right movement - right foot
+        #774 - Down movement - right hand
         #772 - Tongue
-        #770- right hand
-        #774 - arrow down
         #33041 - idle
         #800 - end of trial
         #1010 - end of session
