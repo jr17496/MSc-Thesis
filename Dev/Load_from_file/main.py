@@ -16,8 +16,8 @@ PLV5 = Preprocess(filename ,'plv','5',filter_lapl=True)
 PLV6 = Preprocess(filename,'plv','6',filter_lapl=True)
 PLV7 = Preprocess(filename,'plv','7',filter_lapl=True)
 
-#PLI = Preprocess('..\Data\JohnImag1.bdf','pli')
-#WPLI = Preprocess('..\Data\JohnImag1.bdf','wpli')
+#PLI = Preprocess(filename,'pli')
+#WPLI = Preprocess(filename,'wpli')
 
 
 #Returns a 5 dimensional array
